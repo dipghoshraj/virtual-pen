@@ -53,4 +53,4 @@ License
 MIT
 
 
-**Free Software, fucking truth!**
+**Free Software, Yeah it's fucking truth!**
