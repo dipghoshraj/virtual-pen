@@ -58,3 +58,7 @@ MIT
 
 
 **Free Software, Yeah it's fucking truth!**
+
+Insperiation 
+---
+https://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
