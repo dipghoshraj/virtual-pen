@@ -32,12 +32,16 @@ $ python pendecting.py
 ```
 Step 4 : Draw the tracking object
 ```sh
-$ python draw.py
+$ python main.py
 ```
 
-### Todos
+### Draw Instructions
+ - Press button "s" to stop drawing lines 
+ - press button "e" for enable ereaser
+ - press button "p" to enable pen
 
- - Need to add a ereaser 
+### Todos
+ - Need to fix a Wirper iuuse
 
 ### NOTE :
 ```
